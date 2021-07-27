@@ -18,3 +18,4 @@ https://www.educative.io/collection/5429798910296064/5725579815944192
 
 Curso interactivo de queries MySQL
 https://sqlbolt.com/
+https://www.develou.com/sistema-facturacion-base-datos/
