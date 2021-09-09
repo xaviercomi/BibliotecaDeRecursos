@@ -19,3 +19,9 @@ https://www.educative.io/collection/5429798910296064/5725579815944192
 Curso interactivo de queries MySQL
 https://sqlbolt.com/
 https://www.develou.com/sistema-facturacion-base-datos/
+
+Videos sobre TDD (test.driven development)
+https://www.youtube.com/watch?v=89Pl2Uok8xc&ab_channel=SamMeech-Ward
+https://www.youtube.com/watch?v=hz0_q1MJa2k&ab_channel=SamMeech-Ward
+https://www.youtube.com/watch?v=FKnzS_icp20&ab_channel=SamMeech-Ward
+https://www.youtube.com/watch?v=G43sWqt8T98&ab_channel=Programaci%C3%B3nAccesible
