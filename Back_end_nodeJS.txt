@@ -28,3 +28,8 @@ https://www.youtube.com/watch?v=G43sWqt8T98&ab_channel=Programaci%C3%B3nAccesibl
 
 Video CRUD operations. Node.js - MongoDB
 https://www.youtube.com/watch?v=fbYExfeFsI0
+
+Videos mongoDB
+https://www.youtube.com/watch?v=EcJERV3IiLM&ab_channel=LearnWebCode
+https://www.youtube.com/watch?v=pWbMrx5rVBE&ab_channel=TraversyMedia
+https://www.tutorialesprogramacionya.com/mongodbya/detalleconcepto.php?punto=26&codigo=26&inicio=20
